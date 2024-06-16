@@ -1,0 +1,46 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+
+
+.content-style img{
+    height:300px;
+    width: 350px;
+    background-color: #3b9408;
+    border: 5px;
+
+}
+
+Marquee {
+    font-size: x-large;
+    font-style: oblique;
+    background-color: aquamarine;
+}
+button{
+    font-size: large;
+    font-style: oblique;
+    background-color: rgb(245, 146, 207);
+    padding: 10px;
+    margin:10px;
+    border-radius: 15px;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 75%;
+    font-size: 24px;
+    a{
+        color: #3f0bb9;
+    }
+   
+}
